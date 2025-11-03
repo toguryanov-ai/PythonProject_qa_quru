@@ -1,1 +1,1 @@
-print("Изменение в main")
+print("Изменение в feature-branch 2")
