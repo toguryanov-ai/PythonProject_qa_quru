@@ -1,1 +1,1 @@
-print("Hello GIT")
+print("Изменение в feature-branch")
