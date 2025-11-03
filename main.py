@@ -1,1 +1,1 @@
-print("Изменение в feature-branch")
+print("Изменение в feature-branch 2")
